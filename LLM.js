@@ -17,6 +17,6 @@ async function main(){
     message: userProblem,
   });
   console.log("Chat response 1:", response1.text);
-  main()2
+  main()
 }
 main();
