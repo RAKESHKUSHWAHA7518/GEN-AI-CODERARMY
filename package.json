@@ -1,0 +1,20 @@
+{
+  "name": "gen-ai-coderarmy",
+  "version": "1.0.0",
+  "description": "GEN AI ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gemini"
+  ],
+  "type": "module",
+  "author": "Rakesh Kushwaha",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "nodemon": "^3.1.10",
+    "readline-sync": "^1.4.10"
+  }
+}
